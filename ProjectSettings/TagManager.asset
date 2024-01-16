@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ball
+  - Unstacked Ball
+  - Stacked Ball
+  - Obstacle
+  - Physics Ball
+  - Gate
+  - PathCreator
+  - InstantiatedBallPrefab
+  - Clone Ball
+  - Bridge
+  - No Render
+  - RailDownInstantiatedBall
+  - RailDownCloneBall
+  - Bloom
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Orange Ball Prefab
+  - Water
+  - UI
+  - Physics Ball Layer
+  - Stacked Ball Layer
+  - Unstacked Ball Layer
+  - Player Layer
+  - Obstacle Layer
+  - Instantiated Layer
+  - No Render
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
